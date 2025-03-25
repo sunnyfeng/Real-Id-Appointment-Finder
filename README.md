@@ -1,0 +1,1 @@
+Given the difficulty of finding Real Id appointments in NJ given the increased demand before the May 2025 deadline, this Colab Python program reads the New Jersey (NJ) MVC appointments webpage to find Real Id appointment (regular or mobile).
